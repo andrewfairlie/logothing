@@ -1,2 +1,0 @@
-# logothing
-Created with CodeSandbox
